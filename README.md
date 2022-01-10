@@ -1,4 +1,4 @@
-# Base do exercício de construção de um formulário em React + Typescript.
+# Exercício formulário em React + Typescript.
 
 ## Instruções
 
